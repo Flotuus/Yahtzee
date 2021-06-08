@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Yathzepsi/1.0.0": {
+        "dependencies": {
+          "YathzepsiBiblio": "1.0.0"
+        },
+        "runtime": {
+          "Yathzepsi.dll": {}
+        }
+      },
+      "YathzepsiBiblio/1.0.0": {
+        "runtime": {
+          "YathzepsiBiblio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yathzepsi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "YathzepsiBiblio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,12 @@
+F:\Cours\C#\Projets\YathzepsiBiblio\bin\Debug\net5.0\YathzepsiBiblio.deps.json
+F:\Cours\C#\Projets\YathzepsiBiblio\bin\Debug\net5.0\YathzepsiBiblio.dll
+F:\Cours\C#\Projets\YathzepsiBiblio\bin\Debug\net5.0\ref\YathzepsiBiblio.dll
+F:\Cours\C#\Projets\YathzepsiBiblio\bin\Debug\net5.0\YathzepsiBiblio.pdb
+F:\Cours\C#\Projets\YathzepsiBiblio\obj\Debug\net5.0\YathzepsiBiblio.csprojAssemblyReference.cache
+F:\Cours\C#\Projets\YathzepsiBiblio\obj\Debug\net5.0\YathzepsiBiblio.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cours\C#\Projets\YathzepsiBiblio\obj\Debug\net5.0\YathzepsiBiblio.AssemblyInfoInputs.cache
+F:\Cours\C#\Projets\YathzepsiBiblio\obj\Debug\net5.0\YathzepsiBiblio.AssemblyInfo.cs
+F:\Cours\C#\Projets\YathzepsiBiblio\obj\Debug\net5.0\YathzepsiBiblio.csproj.CoreCompileInputs.cache
+F:\Cours\C#\Projets\YathzepsiBiblio\obj\Debug\net5.0\YathzepsiBiblio.dll
+F:\Cours\C#\Projets\YathzepsiBiblio\obj\Debug\net5.0\ref\YathzepsiBiblio.dll
+F:\Cours\C#\Projets\YathzepsiBiblio\obj\Debug\net5.0\YathzepsiBiblio.pdb
